@@ -2,3 +2,5 @@ static/css/*.css.map
 test/*
 static/images/old/*
 static/images/to-replace/*
+.idea/*
+venv/*
